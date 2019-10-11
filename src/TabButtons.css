@@ -1,0 +1,29 @@
+.links{
+    float:right;
+    margin:20px;
+    margin-top:60px;
+}
+
+.a-link{
+    text-decoration-line: none;
+    color:wheat;
+    margin: 10px;
+    margin-bottom: 0px;
+    
+}
+
+.a-link:hover{
+    color:black;
+    text-decoration-line: underline;
+}
+
+
+
+#search-bar{
+    border:1px solid grey;
+    background-color: transparent;
+    border-radius: 25px;
+    padding:5px;
+    color: white;
+}
+
